@@ -1,0 +1,11 @@
+{
+  "title": "aplikasi waspada kebakaran",
+  "description": "Memantau sensor IoT, mendeteksi dan memprioritaskan kebakaran hutan, serta mengirim peringatan dini kepada petugas, pemerintah daerah, dan warga.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
